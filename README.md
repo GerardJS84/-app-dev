@@ -19,7 +19,7 @@ Here’s a short summary:
 | Character | Role | Notable Trait |
 |------------|------|----------------|
 | Kamille Bidan | Main Protagonist | Skilled pilot with a strong sense of justice |
-| Quattro Bajeena | Veteran Pilot | Calm, mysterious, and strategic, true identity is Char Aznable, the previous antagonist of the first Gundam who later became a main character in Zeta under the name, **Quattro Bajeena** |
+| Quattro Bajeena | Veteran Pilot | Calm, mysterious, and strategic, true identity is Char Aznable, the previous antagonist of the first Gundam show, Mobile Suit Gundam, who later became a main character in Zeta Gundam under the name **Quattro Bajeena** |
 | Emma Sheen | AEUG Officer | Compassionate and determined |
 | Amuro Ray | Legendary Pilot | Previous protagonist from the first Gundam show, Veteran Newtype pilot of the One Year War, famous for piloting the RX-78-2 and influential in later Gundam conflicts |
 | Paptimus Scirocco | Manipulative Titans Commander | Charismatic genius Neytype who seeks to dominate through manipulation and power and the main antagonist |
