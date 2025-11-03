@@ -35,7 +35,7 @@ Here’s a short summary:
 | **AEUG (Anti-Earth Union Group)** | A resistance organization formed to oppose the oppressive Earth Federation Titans. |
 | **Titans** | An elite task force created by the Earth Federation, known for their ruthless tactics and control over space colonies. |
 | **Axis Zeon** | A remnant of the old Principality of Zeon that returns to influence the war later in the series. |
-| **Earth Federation** | The central governing body of Earth and its colonies; bureaucratic and politically divided, it commissions elite units to maintain order(one the elite units is the Titans). They later turned on the Titans after their atrocities were exposed to the public through a televised broadcast by the Anti-Earth Union Group (AEUG) |
+| **Earth Federation** | The central governing body of Earth and its colonies; bureaucratic and politically divided, it commissions elite units to maintain order(one of the elite units is the Titans). They later turned on the Titans after their atrocities were exposed to the public through a televised broadcast by the Anti-Earth Union Group (AEUG) |
 
 ---
 
